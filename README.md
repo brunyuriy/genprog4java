@@ -57,7 +57,7 @@ get it to run, though we do change this file with some regularity so if it
 doesn't work out of the gate, double check that it doesn't look completely
 wacky.
 
-### Who do I talk to? ###
+### Whom do I talk to? ###
 
 Repo owner or admin
 
